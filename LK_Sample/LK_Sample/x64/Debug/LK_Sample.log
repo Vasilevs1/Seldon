@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\bfrol\desktop\robotics-master\lk_sample\lk_sample\source.cpp(106): warning C4305: аргумент: усечение из "int" к "bool"
+c:\users\bfrol\desktop\robotics-master\lk_sample\lk_sample\source.cpp(193): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\bfrol\desktop\robotics-master\lk_sample\lk_sample\source.cpp(194): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\bfrol\desktop\robotics-master\lk_sample\lk_sample\source.cpp(195): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\bfrol\desktop\robotics-master\lk_sample\lk_sample\source.cpp(196): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  LK_Sample.vcxproj -> C:\Users\bfrol\Desktop\Robotics-master\LK_Sample\x64\Debug\LK_Sample.exe
+  LK_Sample.vcxproj -> C:\Users\bfrol\Desktop\Robotics-master\LK_Sample\x64\Debug\LK_Sample.pdb (Full PDB)
